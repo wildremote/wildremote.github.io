@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Wild Remote
+title: Lemma Holdings
 logo: # You can add own logo. For example '/images/logo.png'.
-author: Wild Remote Inc.
-description: Home of Wild Remote Ventures.
+author: Lemma Holdings LLC
+description: Home of Lemma.
 
 
 #-------------------------------
@@ -25,7 +25,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Welcome to Wild Remote Ventures.
+  hero__title: Welcome to Lemma.
   hero__description: We are...
 
 
@@ -98,7 +98,7 @@ hero:
 # Contact Settings
 contact:
   email: formspree.ssiul@simplelogin.com # Add your email for contact form
-  description: Want to work with Wild Remote? Contact us here. # Add a description of your form.
+  description: Want to work with Lemma? Contact us here. # Add a description of your form.
 
 # NOTE
 # Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
