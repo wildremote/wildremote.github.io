@@ -22,6 +22,8 @@ The product of our fusion reactor is energy in the form of 1- high energy neutro
 Lemma comprises a team of five founders from different walks of life who collectively have over a hundred years of experience across diverse but complementary domains: systems engineering; simulation and commissioning of nuclear reactors; strategic planning and program management of multi-billion dollar capital upgrades for the electrical grid; technology and management consulting; and business development for high-growth startups. Collectively, we share a passion and track record for engaging with deep technology and grappling with market forces to enable high-impact societal and environmental transformation. While we acknowledge that most prevalent approaches to fusion are worthwhile pursuits, we recognize that the phenomena underpinning fusion – quantum tunnelling – is quirky enough to warrant alternate explorations. Our proposed approach is not based on new science, but rather an innovative set of engineering tactics. Our long-standing experience in this industry and our preliminary work leave us reasonably confident that we are onto an approach that would facilitate fusion reactions while achieving a step-change reduction in the cost, complexity, and size of fusion reactor systems.
 
 ### Phillip H. Wang, PE - Principal Investigator
+![Workflow]({{site.baseurl}}/images/03.jpg)
+*Phillip H. Wang, PE*
 
 Phillip has more than 30 years of extensive experience in every aspect of system integration, control system engineering, and digital twins in the power industry. He has a strong history of power and utility industry systems design and implementations in all phases of project.
 He founded Microfusion Engineering in 1996 and co-created Thermal Hydraulic Integrated NetworK-THINK™ simulation engine as an efficient method for control system validation in the power industry. His primary focus is on engineering and contractor design review, implementation of control systems, developing digital twins and AI for process optimization, and engineering compliance with regulatory and safety guidelines.
@@ -32,6 +34,8 @@ He founded Microfusion Engineering in 1996 and co-created Thermal Hydraulic Inte
 </ul>
 
 ### D. Scott Lucas, PhD, - Chief Scientist
+![Workflow]({{site.baseurl}}/images/03.jpg)
+*D. Scott Lucas, PhD*
 
 Scott has more than thirty years experiences in Process Plant Systems Engineering for Nuclear, and Fossil plants and research reactors. Have been responsible for design, maintenance and analysis of Balance of Plant feedwater systems, blowdown, off-gas, demineralizers, steam-lines turbines, etc.    
  
