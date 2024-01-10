@@ -18,16 +18,7 @@ Our techniques enhance the quantum tunneling of nucleons, opening the gateway to
 ## The Market
 The product of our fusion reactor is energy in the form of 1- high energy neutrons and 2- heat. High energy neutrons are hard to come by and have applications in multiple industries. Heat can be converted into electrical energy. We target new customer segments, each larger in market size, as our technology evolves to facilitate higher reaction densities and yields greater magnitudes of output neutron flux and heat energy. Phase 1 will target suppliers of medical isotopes. Phase 2 will enable the treatment of hazardous radioactive waste from nuclear fission and the production of rare earth metals. Phase 3 will focus on energy generation for utility-scale baseload power as well mobile fleet applications such as submarines, ships, and space shuttles.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/09.jpg">
-    <img src="/images/06.jpg">
-    <img src="/images/03.jpg">
-    <img src="/images/08.jpg">
-    <img src="/images/05.jpg">
-    <img src="/images/11.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+![Workflow]({{site.baseurl}}/images/03.jpg)
+*Photo by [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) on Unsplash*
 
 ***
