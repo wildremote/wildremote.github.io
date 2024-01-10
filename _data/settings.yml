@@ -32,7 +32,8 @@ hero:
 
 #-------------------------------
 generic:
-  generic_title: Test
+  generic__title: Test
+  generic__description: Test
 
 #-------------------------------
 # Portfolio Settings
