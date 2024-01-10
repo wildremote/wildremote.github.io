@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
-image: '/images/01.jpg'
+#image: '/images/01.jpg'
 ---
 <div class="gallery-box">
   <div class="gallery">
