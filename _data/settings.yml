@@ -29,7 +29,7 @@ menu__settings:
 hero:
   hero__title: Welcome to Lemma.
   hero__description: Stars are not hot enough to account for all the fusion happening within them. At Lemma, we leverage a similar strategy - quantum tunneling.
-  hero__text: Test
+  hero__text: While we acknowledge that most prevalent approaches to fusion are worthwhile pursuits, we recognize that the phenomena underpinning fusion – quantum tunnelling – is quirky enough to warrant alternate explorations. Our proposed approach is not based on new science, but rather an innovative set of engineering tactics. Our long-standing experience in this industry and our preliminary work leave us reasonably confident that we are onto an approach that would facilitate fusion reactions while achieving a step-change reduction in the cost, complexity, and size of fusion reactor systems.
 
 #-------------------------------
 # Portfolio Settings
