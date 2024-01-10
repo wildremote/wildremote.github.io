@@ -4,8 +4,6 @@ title: Team
 permalink: /team/
 image: '/images/01.jpg'
 ---
-
-## Team
 Lemma comprises a team of five founders from different walks of life who collectively have over a hundred years of experience across diverse but complementary domains: systems engineering; simulation and commissioning of nuclear reactors; strategic planning and program management of multi-billion dollar capital upgrades for the electrical grid; technology and management consulting; and business development for high-growth startups. Collectively, we share a passion and track record for engaging with deep technology and grappling with market forces to enable high-impact societal and environmental transformation. While we acknowledge that most prevalent approaches to fusion are worthwhile pursuits, we recognize that the phenomena underpinning fusion – quantum tunnelling – is quirky enough to warrant alternate explorations. Our proposed approach is not based on new science, but rather an innovative set of engineering tactics. Our long-standing experience in this industry and our preliminary work leave us reasonably confident that we are onto an approach that would facilitate fusion reactions while achieving a step-change reduction in the cost, complexity, and size of fusion reactor systems.
 
 ### Phillip H. Wang, PE - Principal Investigator
