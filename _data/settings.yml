@@ -30,6 +30,9 @@ hero:
   hero__title: Welcome to Lemma.
   hero__description: Stars are not hot enough to account for all the fusion happening within them. At Lemma, we leverage a similar strategy - quantum tunneling.
 
+#-------------------------------
+generic:
+  generic_title: 
 
 #-------------------------------
 # Portfolio Settings
