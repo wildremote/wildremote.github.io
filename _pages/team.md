@@ -6,11 +6,11 @@ permalink: /team/
 ---
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/09.jpg">
-    <img src="/images/06.jpg">
-    <img src="/images/03.jpg">
-    <img src="/images/08.jpg">
-    <img src="/images/05.jpg">
+    <img src="/images/phil.jpg">
+    <img src="/images/scott.jpg">
+    <img src="/images/aaron.jpg">
+    <img src="/images/ali.jpg">
+    <img src="/images/tim.jpg">
   </div>
   <em>Gallery / Team</em>
 </div>
