@@ -17,7 +17,7 @@ permalink: /team/
 
 Lemma comprises a team of five founders from different walks of life who collectively have over a hundred years of experience across diverse but complementary domains: systems engineering; simulation and commissioning of nuclear reactors; strategic planning and program management of multi-billion dollar capital upgrades for the electrical grid; technology and management consulting; and business development for high-growth startups. Collectively, we share a passion and track record for engaging with deep technology and grappling with market forces to enable high-impact societal and environmental transformation.
 
-### D. Scott Lucas, PhD - Chief Scientist
+### D. Scott Lucas, PhD - Principal Investigator
 ![Workflow]({{site.baseurl}}/images/scott.jpg)
 *D. Scott Lucas, PhD*
 
@@ -46,7 +46,7 @@ In addition, Scott has done simulations in Environmental work in Groundwater Tra
   <li>Systems Engineering Classes & Projects at INEL & UI, Chemical Reactions (UI) and Process Plant Systems Courses (UI)</li>
 </ul>
 
-### Phillip H. Wang, PE - Principal Investigator
+### Phillip H. Wang, PE
 ![Workflow]({{site.baseurl}}/images/phil.jpg)
 *Phillip H. Wang, PE*
 
