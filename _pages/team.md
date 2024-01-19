@@ -62,11 +62,9 @@ He founded Microfusion Engineering in 1996 and co-created Thermal Hydraulic Inte
 ![Workflow]({{site.baseurl}}/images/aaron.jpg)
 *Aaron David Mendonca*
 
-Aaron is an architect, engineer, and ecologist who loves leveraging specialized knowledge workers and skilled tradesmen as vehicles for environmental and social transformation. He holds a Bachelor's in Architecture and Civil Engineering from IIT Kharagpur, where he was awarded the Institute Silver Medal, and a Master's in Energy & Environments from the Harvard Graduate School of Design, where he was a Lodha Fellow. 
+Aaron loves leveraging confluences of specialized knowledge workers and skilled craftsmen to creatively and pragmatically reckon with complex infrastructural challenges.  He holds a Bachelor's in Architecture and Civil Engineering from IIT Kharagpur, and a Master's in Energy & Environments from the Harvard Graduate School of Design, where he was a Lodha Fellow. 
  
-Aaron enjoys working across multiple scales of design ranging from material science to buildings, critical infrastructure, and ecosystems. He is experienced in leading project and product teams across a variety of sectors ranging from hospitality to healthcare, transportation, commercial, industrial, manufacturing, and energy systems. 
- 
-Aaron has worked at boutique firms such as the surviving associates of Geoffery Bawa and Corinthian Consortium, as well as high-growth startups such as WeWork, where he was the Head of Business Development for the Global Construction Innovation group. Aaron currently co-leads Innovation and Corporate Development for Burns & McDonnell, a 125-year-old family of companies, that has been working relentlessly, since 1898, to make cities and communities thrive.
+Aaron enjoys working across multiple scales of design and business ranging from the molecular to the territorial. He has worked at boutique firms such as the surviving associates of Geoffery Bawa and Corinthian Consortium, as well as high-growth startups such as WeWork, where he was the Head of Business Development for the Global Construction Innovation group. Aaron currently co-leads Innovation and Corporate Development for Burns & McDonnell, a 125-year-old family of companies focused on delivering infrastructure that makes cities and communities thrive.
 
 ### Ali Elnaamani
 ![Workflow]({{site.baseurl}}/images/ali.jpg)
