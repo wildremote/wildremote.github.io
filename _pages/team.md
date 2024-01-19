@@ -17,7 +17,7 @@ permalink: /team/
 
 Lemma comprises a team of five founders from different walks of life who collectively have over a hundred years of experience across diverse but complementary domains: systems engineering; simulation and commissioning of nuclear reactors; strategic planning and program management of multi-billion dollar capital upgrades for the electrical grid; technology and management consulting; and business development for high-growth startups. Collectively, we share a passion and track record for engaging with deep technology and grappling with market forces to enable high-impact societal and environmental transformation.
 
-### D. Scott Lucas, PhD - Principal Investigator
+### D. Scott Lucas, PhD - Principal Investigator & Chief Scientist
 ![Workflow]({{site.baseurl}}/images/scott.jpg)
 *D. Scott Lucas, PhD*
 
