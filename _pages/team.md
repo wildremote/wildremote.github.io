@@ -6,8 +6,8 @@ permalink: /team/
 ---
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/phil.jpg">
     <img src="/images/scott.jpg">
+    <img src="/images/phil.jpg">
     <img src="/images/aaron.jpg">
     <img src="/images/ali.jpg">
     <img src="/images/tim.jpg">
@@ -16,18 +16,6 @@ permalink: /team/
 </div>
 
 Lemma comprises a team of five founders from different walks of life who collectively have over a hundred years of experience across diverse but complementary domains: systems engineering; simulation and commissioning of nuclear reactors; strategic planning and program management of multi-billion dollar capital upgrades for the electrical grid; technology and management consulting; and business development for high-growth startups. Collectively, we share a passion and track record for engaging with deep technology and grappling with market forces to enable high-impact societal and environmental transformation.
-
-### Phillip H. Wang, PE - Principal Investigator
-![Workflow]({{site.baseurl}}/images/phil.jpg)
-*Phillip H. Wang, PE*
-
-Phillip has more than 30 years of extensive experience in every aspect of system integration, control system engineering, and digital twins in the power industry. He has a strong history of power and utility industry systems design and implementations in all phases of project.
-He founded Microfusion Engineering in 1996 and co-created Thermal Hydraulic Integrated NetworK-THINK™ simulation engine as an efficient method for control system validation in the power industry. His primary focus is on engineering and contractor design review, implementation of control systems, developing digital twins and AI for process optimization, and engineering compliance with regulatory and safety guidelines.
-
-<ul>
-  <li>B.S., Mechanical Engineering, University of California, Berkeley, CA</li>
-  <li>M.S., Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA</li>
-</ul>
 
 ### D. Scott Lucas, PhD - Chief Scientist
 ![Workflow]({{site.baseurl}}/images/scott.jpg)
@@ -56,6 +44,18 @@ In addition, Scott has done simulations in Environmental work in Groundwater Tra
   <li>M.S., Mechanical Engineering, West Virginia University, 1976</li>
   <li>Ph.d., Engineering Mechanics, North Carolina State University, 1988</li>
   <li>Systems Engineering Classes & Projects at INEL & UI, Chemical Reactions (UI) and Process Plant Systems Courses (UI)</li>
+</ul>
+
+### Phillip H. Wang, PE - Principal Investigator
+![Workflow]({{site.baseurl}}/images/phil.jpg)
+*Phillip H. Wang, PE*
+
+Phillip has more than 30 years of extensive experience in every aspect of system integration, control system engineering, and digital twins in the power industry. He has a strong history of power and utility industry systems design and implementations in all phases of project.
+He founded Microfusion Engineering in 1996 and co-created Thermal Hydraulic Integrated NetworK-THINK™ simulation engine as an efficient method for control system validation in the power industry. His primary focus is on engineering and contractor design review, implementation of control systems, developing digital twins and AI for process optimization, and engineering compliance with regulatory and safety guidelines.
+
+<ul>
+  <li>B.S., Mechanical Engineering, University of California, Berkeley, CA</li>
+  <li>M.S., Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA</li>
 </ul>
 
 ### Aaron David Mendonca
