@@ -46,7 +46,7 @@ In addition, Scott has done simulations in Environmental work in Groundwater Tra
   <li>Systems Engineering Classes & Projects at INEL & UI, Chemical Reactions (UI) and Process Plant Systems Courses (UI)</li>
 </ul>
 
-### Phillip H. Wang, PE
+### Phillip H. Wang, PE - CEO & CTO
 ![Workflow]({{site.baseurl}}/images/phil.jpg)
 *Phillip H. Wang, PE*
 
