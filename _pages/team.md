@@ -18,7 +18,7 @@ permalink: /team/
 Lemma comprises a team of five founders from different walks of life who collectively have over a hundred years of experience across diverse but complementary domains: systems engineering; simulation and commissioning of nuclear reactors; strategic planning and program management of multi-billion dollar capital upgrades for the electrical grid; technology and management consulting; and business development for high-growth startups. Collectively, we share a passion and track record for engaging with deep technology and grappling with market forces to enable high-impact societal and environmental transformation.
 
 ### Phillip H. Wang, PE - Principal Investigator
-![Workflow]({{site.baseurl}}/images/placeholder-headshot.jpg)
+![Workflow]({{site.baseurl}}/images/phil.jpg)
 *Phillip H. Wang, PE*
 
 Phillip has more than 30 years of extensive experience in every aspect of system integration, control system engineering, and digital twins in the power industry. He has a strong history of power and utility industry systems design and implementations in all phases of project.
@@ -30,7 +30,7 @@ He founded Microfusion Engineering in 1996 and co-created Thermal Hydraulic Inte
 </ul>
 
 ### D. Scott Lucas, PhD - Chief Scientist
-![Workflow]({{site.baseurl}}/images/placeholder-headshot.jpg)
+![Workflow]({{site.baseurl}}/images/scott.jpg)
 *D. Scott Lucas, PhD*
 
 Scott has more than thirty years experiences in Process Plant Systems Engineering for Nuclear, and Fossil plants and research reactors. Have been responsible for design, maintenance and analysis of Balance of Plant feedwater systems, blowdown, off-gas, demineralizers, steam-lines turbines, etc.    
@@ -59,7 +59,7 @@ In addition, Scott has done simulations in Environmental work in Groundwater Tra
 </ul>
 
 ### Aaron David Mendonca
-![Workflow]({{site.baseurl}}/images/placeholder-headshot.jpg)
+![Workflow]({{site.baseurl}}/images/aaron.jpg)
 *Aaron David Mendonca*
 
 Aaron is an architect, engineer, and ecologist who loves leveraging specialized knowledge workers and skilled tradesmen as vehicles for environmental and social transformation. He holds a Bachelor's in Architecture and Civil Engineering from IIT Kharagpur, where he was awarded the Institute Silver Medal, and a Master's in Energy & Environments from the Harvard Graduate School of Design, where he was a Lodha Fellow. 
@@ -69,13 +69,13 @@ Aaron enjoys working across multiple scales of design ranging from material scie
 Aaron has worked at boutique firms such as the surviving associates of Geoffery Bawa and Corinthian Consortium, as well as high-growth startups such as WeWork, where he was the Head of Business Development for the Global Construction Innovation group. Aaron currently co-leads Innovation and Corporate Development for Burns & McDonnell, a 125-year-old family of companies, that has been working relentlessly, since 1898, to make cities and communities thrive.
 
 ### Ali Elnaamani
-![Workflow]({{site.baseurl}}/images/placeholder-headshot.jpg)
+![Workflow]({{site.baseurl}}/images/ali.jpg)
 *Ali Elnaamani*
 
 Ali is an entrepreneur with executive leadership experience responsible for multiple intra-company profitable startups in Technology, Cybersecurity, Digitalization, and autonomous operations. Ali has more than 14 years of experience in the energy market specifically in controls and digitalization as he spent the first half of his career commissioning all types of generation facilities in the US and around the world before moving into consulting leadership roles. Ali holds a bachelor’s degree in computer information systems, a master’s degree in business administration and information security management and a master’s degree in cybersecurity.
 
 ### Tim Dumatrait
-![Workflow]({{site.baseurl}}/images/placeholder-headshot.jpg)
+![Workflow]({{site.baseurl}}/images/tim.jpg)
 *Tim Dumatrait*
 
 Tim is a passionate craftsperson and systems thinker, with 15 years of experience driving creative design solutions and novel use of technology within product, real estate, design, and construction organizations.
