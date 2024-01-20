@@ -16,6 +16,8 @@ menu__settings:
 #      url: '/blog/'
     - title: 'About'
       url: '/about/'
+    - title: 'Market'
+      url: '/market/'
     - title: 'Team'
       url: '/team/'      
     - title: 'Contact'
