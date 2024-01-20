@@ -4,7 +4,7 @@ title: Market
 permalink: /market/
 #image: '/images/01.jpg'
 ---
-![Workflow]({{site.baseurl}}/images/IPMF_reactor_web.jpg)
+![Workflow]({{site.baseurl}}/images/High_energy_neutrons_web.jpg)
 *High-energy neutrons*
 
 The product of our fusion reactor is energy in the form of 1- high-energy neutrons and 2- heat. High-energy neutrons are hard to come by and have applications in multiple industries. Heat can be converted into electrical energy. We target new customer segments, each larger in market size, as our technology evolves to facilitate higher reaction densities and yields greater magnitudes of output neutron flux and heat energy.
