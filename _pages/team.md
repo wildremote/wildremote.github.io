@@ -81,7 +81,6 @@ Tim is a passionate craftsperson and systems thinker, with 15 years of experienc
 Since 2007, he has worked in Lafayette for emerymcclure architecture and in New Orleans for Eskew+Dumez+Ripple, taking on all roles ranging from programming and design to construction management. In 2013, he relocated to New York City to work with CASE Inc, focusing on building data and construction technology. In 2015, he joined WeWork to develop their global coworking facilities network. He is currently in New York City with Burns & McDonnell.
 
 ***
-
 #### Contact
 <div class="form-box">
   <div class="contact-head">
