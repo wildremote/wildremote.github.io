@@ -121,35 +121,6 @@
     display: none;
   }
 
-  @media only screen and (max-width: $desktop) {
-    display: block;
-
-    align-items: center;
-    width: 80%;
-    height: 80vh;
-    padding-top: 180px;
-    margin: 0 auto;
-    text-align: center;
-    overflow-y: auto;
-
-    .nav__icon-close {
-      display: flex;
-      position: absolute;
-      top: 40px;
-      right: 40px;
-    }
-
-    .nav__title {
-      display: inline-block;
-      margin-bottom: 20px;
-      font-family: $heading-font-family;
-      font-size: 36px;
-      font-weight: 700;
-      letter-spacing: -1px;
-      color: var(--heading-font-color);
-    }
-  }
-
   @media only screen and (max-width: $tablet) {
     padding-top: 100px;
   }
