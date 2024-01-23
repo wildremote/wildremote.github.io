@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Innovation
+permalink: /innovation/
 #image: '/images/01.jpg'
 ---
-
-## The Innovation
 Interstitial Pseudo-Muon Fusion (IPMF) relates to a method and apparatus for producing controlled nuclear-fusion reactions by drastically increasing the probabilistic interactions of atoms as opposed to relying solely on brute-force hot fusion.
 
 Currently, the most promising fusion reactors deploy and energize Deuterium-Tritium fuel, contained at a target, to temperatures several times the sun’s core leveraging complex and massive power supplies or capacitors and lasers.  Most stars’ cores are not hot enough for temperature alone to account for all the fusion occurring within them. Solar fusion can be explained by quantum tunnelling: as protons approach the coulomb barrier, they are likely to be repelled by electrostatic forces, but there is a small chance that their wave-like existence has tunneled through to the other side of the barrier. Therefore, the strong force kicks in and they fuse. The probability of this event is extremely low. However, due to the unfathomably large number of atoms in stars, this low-probability event occurs frequently.
