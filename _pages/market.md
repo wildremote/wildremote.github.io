@@ -17,3 +17,29 @@ During Phase 1 and 2, our value proposition lies in the high energy neutron flux
 The near-term commercial focus is to leverage the neutron flux output of the IMPF fusion reactor to provide a low-cost, safe, and reliable supply of neutron flux that the world currently relies on fission reactors for. Phase 1 will target medical isotope production and medical imaging. Phase 2 will enable the treatment of hazardous radioactive waste from nuclear fission and the production of rare earth metals through transmutation. Phase 3 will focus on energy generation for utility-scale baseload power as well as mobile fleet applications such as submarines, ships, and space shuttles.
 
 ***
+#### Contact
+<div class="form-box">
+  <div class="contact-head">
+    {% if site.data.settings.contact.description %}
+      <p class="page-description">{{site.data.settings.contact.description}}</p>
+    {% endif %}
+  </div>
+  <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/mrgvqelz{% else %}#{% endif %}" method="POST">
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-name">Your Name</label>
+      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
+    </div>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-email">Your Email</label>
+      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email" required>
+    </div>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-text">Your Message</label>
+      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message" required></textarea>
+    </div>
+    <div class="form__group">
+      <button class="button" type="submit">Send Message</button>
+    </div>
+  </form>
+</div>
+***
