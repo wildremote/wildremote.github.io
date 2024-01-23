@@ -39,54 +39,6 @@
 /* Nav */
 .main-nav {
   margin-left: auto;
-
-  @media only screen and (max-width: $desktop) {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 100;
-    opacity: 0;
-    visibility: hidden;
-    background-color: var(--background-color);
-
-    &.is-open {
-      opacity: 1;
-      visibility: visible;
-      transition: all .25s ease;
-    }
-
-    .nav__list {
-      flex-direction: column;
-      width: 100%;
-
-      .nav__item {
-        display: block;
-        margin: 0;
-
-        .nav__link {
-          display: inline-block;
-          padding: 20px 0;
-          font-size: 21px;
-
-          &:hover {
-            &::after {
-              content: none;
-            }
-          }
-
-          &.nav__link--current {
-            color: var(--brand-color);
-
-            &::after {
-              content: none;
-            }
-          }
-        }
-      }
-    }
-  }
 }
 
 .main-nav__box {
