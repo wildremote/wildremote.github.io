@@ -20,8 +20,8 @@ menu__settings:
       url: '/market/'
     - title: 'Team'
       url: '/team/'      
-    - title: 'Contact'
-      url: '/contact/'
+#    - title: 'Contact'
+#      url: '/contact/'
 #    - title: 'Elements'
 #      url: '/elements/'
 
