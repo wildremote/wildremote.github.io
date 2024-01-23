@@ -38,6 +38,7 @@
 
 /* Nav */
 .main-nav {
+  display: none;
   margin-left: auto;
 
   @media only screen and (max-width: $desktop) {
