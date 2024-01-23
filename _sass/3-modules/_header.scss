@@ -142,15 +142,6 @@
   .nav__icon-menu {
     display: none;
   }
-
-  @media only screen and (max-width: $desktop) {
-    margin-left: auto;
-    font-size: 26px;
-
-    .nav__icon-menu {
-      display: block;
-    }
-  }
 }
 
 /* Toggle Theme */
