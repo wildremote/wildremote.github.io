@@ -82,6 +82,7 @@ Since 2007, he has worked in Lafayette for emerymcclure architecture and in New 
 
 ***
 
+#### Contact
 <div class="form-box">
   <div class="contact-head">
     {% if site.data.settings.contact.description %}
