@@ -8,9 +8,6 @@ permalink: /team/
   <div class="gallery">
     <img src="/images/scott.jpg">
     <img src="/images/phil.jpg">
-    <img src="/images/aaron.jpg">
-    <img src="/images/ali.jpg">
-    <img src="/images/tim.jpg">
   </div>
   <em>Gallery / Team</em>
 </div>
@@ -57,28 +54,6 @@ He founded Microfusion Engineering in 1996 and co-created Thermal Hydraulic Inte
   <li>B.S., Mechanical Engineering, University of California, Berkeley, CA</li>
   <li>M.S., Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA</li>
 </ul>
-
-### Aaron David Mendonca
-![Workflow]({{site.baseurl}}/images/aaron.jpg)
-*Aaron David Mendonca*
-
-Aaron loves leveraging confluences of specialized knowledge workers and skilled craftsmen to creatively and pragmatically reckon with complex infrastructural challenges.  He holds a Bachelor's in Architecture and Civil Engineering from IIT Kharagpur, and a Master's in Energy & Environments from the Harvard Graduate School of Design, where he was a Lodha Fellow. 
- 
-Aaron enjoys working across multiple scales of design and business ranging from the molecular to the territorial. He has worked at boutique firms such as the surviving associates of Geoffery Bawa and Corinthian Consortium, as well as high-growth startups such as WeWork, where he was the Head of Business Development for the Global Construction Innovation group. Aaron currently co-leads Innovation and Corporate Development for Burns & McDonnell, a 125-year-old family of companies focused on delivering infrastructure that makes cities and communities thrive.
-
-### Ali Elnaamani
-![Workflow]({{site.baseurl}}/images/ali.jpg)
-*Ali Elnaamani*
-
-Ali is an entrepreneur with executive leadership experience responsible for multiple intra-company profitable startups in Technology, Cybersecurity, Digitalization, and autonomous operations. Ali has more than 14 years of experience in the energy market specifically in controls and digitalization as he spent the first half of his career commissioning all types of generation facilities in the US and around the world before moving into consulting leadership roles. Ali holds a bachelor’s degree in computer information systems, a master’s degree in business administration and information security management and a master’s degree in cybersecurity.
-
-### Tim Dumatrait
-![Workflow]({{site.baseurl}}/images/tim.jpg)
-*Tim Dumatrait*
-
-Tim is a passionate craftsperson and systems thinker, with 15 years of experience driving creative design solutions and novel use of technology within product, real estate, design, and construction organizations.
- 
-Since 2007, he has worked in Lafayette for emerymcclure architecture and in New Orleans for Eskew+Dumez+Ripple, taking on all roles ranging from programming and design to construction management. In 2013, he relocated to New York City to work with CASE Inc, focusing on building data and construction technology. In 2015, he joined WeWork to develop their global coworking facilities network. He is currently in New York City with Burns & McDonnell.
 
 ***
 #### Contact
