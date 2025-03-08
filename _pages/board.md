@@ -13,7 +13,7 @@ permalink: /board/
   <em>Gallery / Board</em>
 </div>
 
-Lemma comprises of...
+Lemma's board of directors and advisors.
 
 ### Aaron Mendonca - Board Member
 ![Workflow]({{site.baseurl}}/images/aaron.jpg)
