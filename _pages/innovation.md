@@ -25,7 +25,7 @@ Now, while it's impractical to assemble a star-sized reactor on Earth, it is pos
 
 Our Interstitial Pseudo-Muon Fusion (IPMF) reactor would decrease the subatomic distance and enhance the quantum tunnelling of nucleons, opening the gateway to self-sustained fusion reactions while significantly lowering the cost, size, and mass of fusors by circumventing the massive temperature, power supply, and plasma confinement requirements of hot fusion.
 
-## Market
+# Market
 
 ![Workflow]({{site.baseurl}}/images/High_energy_neutrons_web.jpg)
 *High-energy neutrons*
